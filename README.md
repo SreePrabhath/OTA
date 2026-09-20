@@ -48,5 +48,5 @@ Design completed and verified against the above specifications through simulatio
 
 ## Author
 
-Bhargavi Katikam
-M.Tech, Electronics and Electrical Communication Engineering, IIT Kharagpur
+Nimmala Sree Prabhath
+M.Tech, Electronics and Electrical Communication Engineering, IIT Hyderabad
