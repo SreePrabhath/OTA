@@ -49,4 +49,4 @@ Design completed and verified against the above specifications through simulatio
 ## Author
 
 Nimmala Sree Prabhath
-M.Tech, Electronics and Electrical Communication Engineering, IIT Hyderabad
+M.Tech, Electrical Engineering, IIT Hyderabad
